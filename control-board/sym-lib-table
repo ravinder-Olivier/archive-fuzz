@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ROB-14450") (type "KiCad") (uri "${KIPRJMOD}/motor controller board/ROB-14450.kicad_sym") (options "") (descr ""))
+)
